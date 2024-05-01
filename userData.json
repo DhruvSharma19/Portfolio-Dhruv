@@ -1,0 +1,621 @@
+{
+    "success": true,
+    "user": {
+        "about": {
+            "name": "Dhruv Sharma",
+            "title": "Software Developer",
+            "subTitle": "I develop web applications and solve real world problems",
+            "description": "As a software developer with a solid background in React and a diverse skill set in C/C++, Java, and Python, I bring a unique combination of frontend and backend expertise. I have experience with various technologies including TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, and NextJS. I value continuous learning, which is reflected in my ongoing work with blockchain and machine learning. My approach focuses on building robust, scalable solutions, while collaborating with teams and clients to address real-world challenges. My aim is to create user-friendly applications that deliver impactful results.",
+            "quote": "Live the Life as you want",
+            "exp_year": "1",
+            "address": "Haryana , India",
+            "some_total": "90",
+            "phoneNumber": "+91-8377830677",
+            "contactEmail": "dhruvamsh@gmail.com",
+            "avatar": {
+                "public_id": "portfolio3/1713995155677-122l5x.webp",
+                "url": "https://drive.google.com/uc?id=1N-HIB3cvydH1-REm5h58jNEXG1nAc684",
+                "_id":"65b3a22c01d900e96c4219ae"
+            },
+            "alternateAvatars": [
+                {
+                    "public_id": "portfolio3/1713996156944-1hro1b.webp",
+                    "url": "https://drive.google.com/uc?id=1N-HIB3cvydH1-REm5h58jNEXG1nAc684",
+                    "_id":"65b3a22c01d900e96c4219ae"
+                }
+            ]
+        },
+        "_id": "65b3a22c01d900e96c4219ae",
+        "username": "Dhruv Sharma",
+        "email": "dhruvamsh@gmail.com",
+        "role": "admin",
+        "timeline": [
+            {
+                "company_name": "Ampersand Group",
+                "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
+                "sequence": 6,
+                "startDate": "2024-01-10T00:00:00.000Z",
+                "endDate": "2024-05-10T00:00:00.000Z",
+                "jobTitle": "Software Developer Intern",
+                "jobLocation": " New Delhi, India",
+                "bulletPoints": [
+                    "Worked with a team to develop and maintain the VidyasamikshaKendra Website, contributing to a 15% increase in server response time and 20% decrease in loading time through optimization efforts",
+                    "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
+                    "\nCollaborated effectively with the team to reduce website bugs by 25%, improving overall reliability.",
+                    "\nSuccessfully integrated government APIs to enhance website functionality and user experience."
+                    
+                ],
+                "forEducation": true,
+                "enabled": true,
+                "_id": "65f1fe900556c3f887e9db94"
+            }
+        ],
+        "skills": [
+            {
+                "enabled": true,
+                "name": "C++/C",
+                "sequence": 17,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706288734207-4rlz3m",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+                    "_id": "65b3e661b48589dfcae187f8"
+                },
+                "_id": "65b3e661b48589dfcae187f7"
+            },
+            {
+                "enabled": true,
+                "name": "Python",
+                "sequence": 16,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706288708710-nrq74s",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+                    "_id": "65b3e645b48589dfcae187a3"
+                },
+                "_id": "65b3e645b48589dfcae187a2"
+            },
+            {
+                "enabled": true,
+                "name": "Java",
+                "sequence": 16,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706288708710-nrq74s",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+                    "_id": "65b3e645b48589dfcae187a3"
+                },
+                "_id": "65b3e645b48589dfcae187a2"
+            },
+            {
+                "enabled": true,
+                "name": "TypeScript",
+                "sequence": 6,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706287104739-pm8en",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+                    "_id": "65b3e001b48589dfcae18246"
+                },
+                "_id": "65b3e001b48589dfcae18245"
+            },
+            {
+                "enabled": true,
+                "name": "Node.js",
+                "sequence": 7,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286990341-tznh4",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+                    "_id": "65b3df8fb48589dfcae18205"
+                },
+                "_id": "65b3df8fb48589dfcae18204"
+            },
+            {
+                "enabled": true,
+                "name": "MongoDB",
+                "sequence": 13,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286966065-p2yrx9",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+                    "_id": "65b3df76b48589dfcae181c6"
+                },
+                "_id": "65b3df76b48589dfcae181c5"
+            },
+            {
+                "enabled": true,
+                "name": "Redux",
+                "sequence": 7,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286913147-nwiky8",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
+                    "_id": "65b3df41b48589dfcae1814e"
+                },
+                "_id": "65b3df41b48589dfcae1814d"
+            },
+            {
+                "enabled": true,
+                "name": "Javascript",
+                "sequence": 3,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706288679775-y4qwn3",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+                    "_id": "65b3e628b48589dfcae18750"
+                },
+                "_id": "65b3df24b48589dfcae18114"
+            },
+            {
+                "enabled": true,
+                "name": "Git",
+                "sequence": 12,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286842731-r0eyn",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+                    "_id": "65b3defbb48589dfcae180de"
+                },
+                "_id": "65b3defbb48589dfcae180dd"
+            },
+            {
+                "enabled": true,
+                "name": "Github",
+                "sequence": 11,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286821409-21cuqs",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+                    "_id": "65b3dee5b48589dfcae180a9"
+                },
+                "_id": "65b3dee5b48589dfcae180a8"
+            },
+            {
+                "enabled": true,
+                "name": "Sass",
+                "sequence": 10,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286780392-39i48h",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
+                    "_id": "65b3debcb48589dfcae18076"
+                },
+                "_id": "65b3debcb48589dfcae18075"
+            },
+            {
+                "enabled": true,
+                "name": "Vercel",
+                "sequence": 7,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286729467-rbblgb",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+                    "_id": "65b3de89b48589dfcae18016"
+                },
+                "_id": "65b3de89b48589dfcae18015"
+            },
+            {
+                "enabled": true,
+                "name": "Next.js",
+                "sequence": 6,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286682511-rgp96r",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+                    "_id": "65b3de5bb48589dfcae17fe9"
+                },
+                "_id": "65b3de5bb48589dfcae17fe8"
+            },
+            {
+                "enabled": true,
+                "name": "React",
+                "sequence": 5,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706291833080-0loo09",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+                    "_id": "65b3f27aeb20546ae6d49e76"
+                },
+                "_id": "65b3de41b48589dfcae17fbd"
+            },
+            {
+                "enabled": true,
+                "name": "Tailwind",
+                "sequence": 4,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286616701-2jka3q",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+                    "_id": "65b3de19b48589dfcae17f95"
+                },
+                "_id": "65b3de19b48589dfcae17f94"
+            },
+            {
+                "enabled": true,
+                "name": "Express.js",
+                "sequence": 4,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286616701-2jka3q",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+                    "_id": "65b3de19b48589dfcae17f95"
+                },
+                "_id": "65b3de19b48589dfcae17f94"
+            },
+            {
+                "enabled": true,
+                "name": "CSS",
+                "sequence": 2,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286273084-romle",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+                },
+                "_id": "65b3dcc1b48589dfcae17e4d"
+            },
+            {
+                "name": "HTML",
+                "sequence": 1,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286058630-v3ax0a",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+                },
+                "_id": "65b3dbeba5c8d2db7b6164bc",
+                "enabled": true
+            },
+            {
+                "name": "Machine Learning",
+                "sequence": 1,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286058630-v3ax0a",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+                },
+                "_id": "65b3dbeba5c8d2db7b6164bc",
+                "enabled": true
+            },
+            {
+                "name": "Deep Learning",
+                "sequence": 1,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286058630-v3ax0a",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+                },
+                "_id": "65b3dbeba5c8d2db7b6164bc",
+                "enabled": true
+            },
+            {
+                "name": "BlockChain",
+                "sequence": 1,
+                "percentage": 100,
+                "image": {
+                    "public_id": "1706286058630-v3ax0a",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+                },
+                "_id": "65b3dbeba5c8d2db7b6164bc",
+                "enabled": true
+            }
+        ],
+        "youtube": [
+            {
+                "url": "#",
+                "title": "Sample Video",
+                "sequence": 1,
+                "image": null,
+                "embedId": "1",
+                "enabled": true,
+                "_id": "65f482e5d689e5777d9457ae"
+            }
+        ],
+        "projects": [
+            {
+              "liveurl": "#",
+              "githuburl": "#",
+              "title": "Langster",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=10sCLnguDZgpj8_NtmiIevgEQwXaXRcLY"
+              },
+              "description": "Langster is an interactive language learning platform with AI-generated voices, gamified elements such as points, a heart system, and leaderboards. It offers users a dynamic experience with premium subscription options and a responsive design for all devices.",
+              "techStack": ["Reactjs", "Nextjs", "Stripe", "Tailwind CSS", "TypeScript"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "#",
+              "githuburl": "#",
+              "title": "SasWorx",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id="
+              },
+              "description": "Developed SasWorx, a multi-tenant SaaS platform for agency owners with Stripe integration, a drag-and-drop website builder, and comprehensive agency management tools for managing clients, sub-accounts, and business operations.",
+              "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "Stripe", "TypeScript"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "#",
+              "githuburl": "#",
+              "title": "FlowLink",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id="
+              },
+              "description": "Developed an automation platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "Stripe", "Framer Motion", "TypeScript"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://notewave-chi.vercel.app/",
+              "githuburl": "https://github.com/DhruvSharma19/NoteWave",
+              "title": "NoteWave",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=16Wk_iu8JF8REn1juf0MAg23dLEhHVShI"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with an intuitive UI and powerful backend integration.",
+              "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://elaborate-cajeta-d20f6b.netlify.app/",
+              "githuburl": "https://github.com/DhruvSharma19/velle",
+              "title": "Velle",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=1vjDltu_-BOR10viVrR61ymllZs9asCVn"
+              },
+              "description": "Developed an automation platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "MERN"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://discord-zeta-black.vercel.app/",
+              "githuburl": "https://github.com/DhruvSharma19/EchoVerse",
+              "title": "EchoVerse",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=1yQ8DchUJXObE2I2Ig07aNFZMRnt1gqzg"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "Nextjs", "TypeScript", "Socket.io", "Tailwind CSS"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://incredible-rugelach-dd78fb.netlify.app/",
+              "githuburl": "https://github.com/DhruvSharma19/crowdFunding",
+              "title": "FundHive",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=11zK000g3ZADLqMO0zVxdV1QmiyZsmj3f"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "BlockChain", "Tailwind CSS"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://loquacious-pixie-1bfcbb.netlify.app/",
+              "githuburl": "https://github.com/DhruvSharma19/youtube",
+              "title": "VideoSphere",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=1EfNgTBnuNkyrVZTs5QDOkuVotHSwTIZV"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "MERN"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "#",
+              "githuburl": "https://github.com/DhruvSharma19/ClimaZen",
+              "title": "ClimaZen",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id="
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["React Native", "Tailwind CSS"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "#",
+              "githuburl": "https://github.com/DhruvSharma19/BrewHub",
+              "title": "BrewHub",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id="
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["React Native", "Tailwind CSS"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://askpdf-amber.vercel.app/",
+              "githuburl": "https://github.com/DhruvSharma19/AskPDF",
+              "title": "AskPDF",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=1UsWXXQkhSIaQJDzCduc0JqMRqGo5sILe"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "Nextjs", "TypeScript", "OpenAI", "Tailwind CSS"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            },
+            {
+              "liveurl": "https://talkbuddy.vercel.app/",
+              "githuburl": "https://github.com/DhruvSharma19/TalkBuddy",
+              "title": "TalkBuddy",
+              "sequence": 14,
+              "image": {
+                "public_id": "1706285511679-xe7r9t",
+                "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+              },
+              "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+              "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
+              "_id": "65b3d9c8d017f6b49c778ca7",
+              "enabled": true
+            }
+          ],
+        "social_handles": [
+            {
+                "platform": "Github",
+                "url": "https://github.com/DhruvSharma19",
+                "image": {
+                    "public_id": "1708718250873-3038n7.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+                },
+                "enabled": true,
+                "_id": "65b3ea4feb20546ae6d4641d"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/dhruv-sharma-042198233",
+                "image": {
+                    "public_id": "1708718263294-2lfj67.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+                },
+                "enabled": true,
+                "_id": "65b3e99beb20546ae6d463c2"
+            },
+            {
+                "enabled": true,
+                "platform": "Twitter",
+                "url": "",
+                "image": {
+                    "public_id": "1708718328750-d4jsq.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+                },
+                "_id": "65b3e47cb48589dfcae185bd"
+            },
+            {
+                "enabled": true,
+                "platform": "LeetCode",
+                "url": "https://leetcode.com/dhruvsharma190802/",
+                "image": {
+                    "public_id": "1708718346601-xldm.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+                },
+                "_id": "65b3e43cb48589dfcae1856c"
+            },
+            {
+                "enabled": true,
+                "platform": "CodeChef",
+                "url": "https://www.codechef.com/users/invincible2002",
+                "image": {
+                    "public_id": "1708718346601-xldm.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+                },
+                "_id": "65b3e43cb48589dfcae1856c"
+            }
+        ],
+        "services": [
+            {
+                "name": "NIT Kurukshetra",
+                "charge": "2021 - 2025",
+                "desc": "Bachelor of Technology, Computer Engineering | CGPA: 8.4951",
+                "enabled": true,
+                "_id": "65f1fd690556c3f887e9d94a",
+                "image": {
+                    "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+                }
+            },
+            {
+                "name": "Scholar’s Pride School",
+                "charge": "2019 - 2021",
+                "desc": "Higher Secondary Schooling | Aggregate: 96.6%",
+                "enabled": true,
+                "_id": "65f1fd690556c3f887e9d94a",
+                "image": {
+                    "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+                }
+            },
+            {
+                "name": "Scholar’s Pride School",
+                "charge": "2017 - 2019",
+                "desc": "AISSE (Class X) | Aggregate: 95.4%",
+                "enabled": true,
+                "_id": "65f1fd690556c3f887e9d94a",
+                "image": {
+                    "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+                }
+            }
+        ],
+        "testimonials": [
+            {
+                "image": {
+                    "public_id": "portfolio3/1710357726628-c4dr18.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+                },
+                "name": "Samantha Wu",
+                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "position": "Software Engineer",
+                "enabled": true,
+                "_id": "65f1fcdf0556c3f887e9d74c"
+            },
+            {
+                "image": {
+                    "public_id": "portfolio3/1710357726628-c4dr18.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+                },
+                "name": "Samantha Wu",
+                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "position": "Software Engineer",
+                "enabled": true,
+                "_id": "65f1fcdf0556c3f887e9d74c"
+            },
+            {
+                "image": {
+                    "public_id": "portfolio3/1710357726628-c4dr18.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+                },
+                "name": "Samantha Wu",
+                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "position": "Software Engineer",
+                "enabled": true,
+                "_id": "65f1fcdf0556c3f887e9d74c"
+            },
+            {
+                "image": {
+                    "public_id": "portfolio3/1710357726628-c4dr18.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+                },
+                "name": "Samantha Wu",
+                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "position": "Software Engineer",
+                "enabled": true,
+                "_id": "65f1fcdf0556c3f887e9d74c"
+            }
+        ],
+        "createdAt": "2024-01-26T12:14:36.514Z",
+        "updatedAt": "2024-04-29T11:39:04.991Z",
+        "__v": 74,
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWIzYTIyYzAxZDkwMGU5NmM0MjE5YWUiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MTQzOTA1MzksImV4cCI6MTcyMjE2NjUzOX0.anW2weoLMBz8Zfc1dNibm5OAIgX1OJaVWkloiqSXMJk"
+    }
+}
