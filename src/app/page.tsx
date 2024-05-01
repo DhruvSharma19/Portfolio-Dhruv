@@ -127,7 +127,7 @@ export default async function Home() {
       {/* ===PROJECTS SECTION=== */}
       <Projects data={projects} />
       {/* ===TESTIMONIALS SECTION=== */}
-      <section className="py-20 relative" id="testimonials">
+      {/* <section className="py-20 relative" id="testimonials">
         <span className="blob size-1/2 absolute -top-20 left-0 blur-[100px] -z-10" />
         <SectionHeading className="md:pl-28">
           <SlideIn className="text-white/40">What Our</SlideIn> <br />
@@ -140,7 +140,7 @@ export default async function Home() {
           speed="normal"
           direction="left"
         />
-      </section>
+      </section> */}
 
       {/* ===CONTACT US=== */}
       <div
