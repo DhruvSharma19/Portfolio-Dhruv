@@ -118,20 +118,20 @@ export default async function Home() {
             </Transition>
           ))}
         </div>
-        <Transition className="flex items-center py-10 md:hidden">
+        {/* <Transition className="flex items-center py-10 md:hidden">
           <div className="p-4 rounded-full border border-white/50">
             <span>Discuss the project</span>
           </div>
-        </Transition>
+        </Transition> */}
       </section>
       {/* ===PROJECTS SECTION=== */}
       <Projects data={projects} />
       {/* ===TESTIMONIALS SECTION=== */}
-      {/* <section className="py-20 relative" id="testimonials">
+      <section className="py-20 relative" id="testimonials">
         <span className="blob size-1/2 absolute -top-20 left-0 blur-[100px] -z-10" />
         <SectionHeading className="md:pl-28">
-          <SlideIn className="text-white/40">What Our</SlideIn> <br />
-          <SlideIn className="">Clients Say</SlideIn>
+          <SlideIn className="text-white/40">What are my</SlideIn> <br />
+          <SlideIn className="">Achievements</SlideIn>
         </SectionHeading>
         <Testimonials data={testimonials} speed="normal" pauseOnHover />
         <Testimonials
@@ -140,7 +140,7 @@ export default async function Home() {
           speed="normal"
           direction="left"
         />
-      </section> */}
+      </section>
 
       {/* ===CONTACT US=== */}
       <div

@@ -42,7 +42,8 @@
                     "Worked with a team to develop and maintain the VidyasamikshaKendra Website, contributing to a 15% increase in server response time and 20% decrease in loading time through optimization efforts",
                     "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
                     "\nCollaborated effectively with the team to reduce website bugs by 25%, improving overall reliability.",
-                    "\nSuccessfully integrated government APIs to enhance website functionality and user experience."
+                    "\nSuccessfully integrated government APIs to enhance website functionality and user experience.",
+                    "\nTeach Stack: ReactJS, NodeJS, Angular, Javascript, JWT"
                     
                 ],
                 "forEducation": true,
@@ -313,7 +314,7 @@
         "projects": [
             {
               "liveurl": "#",
-              "githuburl": "#",
+              "githuburl": "https://github.com/DhruvSharma19/Langster",
               "title": "Langster",
               "sequence": 14,
               "image": {
@@ -327,7 +328,7 @@
             },
             {
               "liveurl": "#",
-              "githuburl": "#",
+              "githuburl": "https://github.com/DhruvSharma19/SasWorx",
               "title": "SasWorx",
               "sequence": 14,
               "image": {
@@ -341,7 +342,7 @@
             },
             {
               "liveurl": "#",
-              "githuburl": "#",
+              "githuburl": "https://github.com/DhruvSharma19/FlowLink",
               "title": "FlowLink",
               "sequence": 14,
               "image": {
@@ -573,8 +574,8 @@
                     "public_id": "portfolio3/1710357726628-c4dr18.png",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
                 },
-                "name": "Samantha Wu",
-                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "name": "Smart India Hackathon 2023",
+                "review": "Winner of internal phase of Smart India Hackathon 2023, NIT Kurukshetra",
                 "position": "Software Engineer",
                 "enabled": true,
                 "_id": "65f1fcdf0556c3f887e9d74c"
@@ -584,8 +585,8 @@
                     "public_id": "portfolio3/1710357726628-c4dr18.png",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
                 },
-                "name": "Samantha Wu",
-                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "name": "CodeChef Starter 86 Contest",
+                "review": "Global Rank – 93 in CodeChef Starter 86 Contest.",
                 "position": "Software Engineer",
                 "enabled": true,
                 "_id": "65f1fcdf0556c3f887e9d74c"
