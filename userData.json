@@ -222,7 +222,7 @@
             },
             {
                 "enabled": true,
-                "name": "Tailwind",
+                "name": "Tailwind CSS",
                 "sequence": 4,
                 "percentage": 100,
                 "image": {
@@ -596,8 +596,8 @@
                     "public_id": "portfolio3/1710357726628-c4dr18.png",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
                 },
-                "name": "Samantha Wu",
-                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "name": "LeetCode and GeeksForGeeks",
+                "review": "Solved 700+ questions on Leetcode and 250+ questions on GeeksForGeeks",
                 "position": "Software Engineer",
                 "enabled": true,
                 "_id": "65f1fcdf0556c3f887e9d74c"
@@ -607,8 +607,8 @@
                     "public_id": "portfolio3/1710357726628-c4dr18.png",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
                 },
-                "name": "Samantha Wu",
-                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "name": "JEE Mains",
+                "review": " Under 0.6% of students in JEE Mains 2021.",
                 "position": "Software Engineer",
                 "enabled": true,
                 "_id": "65f1fcdf0556c3f887e9d74c"
