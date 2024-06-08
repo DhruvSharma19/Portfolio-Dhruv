@@ -51,6 +51,11 @@ export default async function Home() {
       </Transition>
       <Header social={social_handles} />
       <Hero about={about} />
+      <SectionHeading className="pl-4 md:px-12 py-20">
+        <SlideIn className="text-white/40">Experience</SlideIn>
+        <br />
+        <SlideIn className="text-white/40">History</SlideIn>
+      </SectionHeading>
       <About about={about} timeline={timeline} />
       <Experience timeline={timeline} />
       {/* ===SKILLS SECTION=== */}
@@ -110,7 +115,7 @@ export default async function Home() {
             <Transition key={service._id}>
               <HoverImageLink
                 heading={service.name}
-                href=""
+                href={service.image.url}
                 price={service.charge}
                 imgSrc={service.image.url}
                 subheading={service.desc}

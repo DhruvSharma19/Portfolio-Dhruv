@@ -62,20 +62,20 @@ export const HoverImageLink = ({
       className="group relative flex items-center justify-between border-b border-white/10 py-4 transition-colors duration-500 md:py-6 md:px-16 hover:bg-white/5"
     >
       <div>
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between flex-wrap gap-[40px]">
           <h4 className="relative z-10 block text-2xl sm:text-4xl font-semibold md:font-bold md:text-neutral-500 transition-colors duration-500 group-hover:text-neutral-50 md:text-6xl">
             {heading}
           </h4>
-          <span className="md:text-2xl text-foreground/50 md:hidden">
+          <div className="md:text-2xl text-right text-foreground/50 md:hidden">
             {price}
-          </span>
+          </div>
         </div>
         <p className="relative z-10 mt-2 block md:text-base text-sm text-foreground/50 transition-colors duration-500 group-hover:text-neutral-50">
           {subheading}
         </p>
       </div>
 
-      <motion.img
+      {/* <motion.img
         style={{
           top,
           left,
@@ -90,7 +90,7 @@ export const HoverImageLink = ({
         src={imgSrc}
         className="absolute z-0 h-24 w-32 rounded-lg object-cover md:h-48 md:w-64 max-md:hidden"
         alt={`Image representing a link for ${heading}`}
-      />
+      /> */}
 
       <motion.div
         variants={{
@@ -104,9 +104,9 @@ export const HoverImageLink = ({
           },
         }}
         transition={{ type: "spring" }}
-        className="z-10 md:p-4 grid justify-items-end gap-2 max-md:hidden"
+        className="z-10 md:p-4 grid justify-items-end flex-wrap max-md:hidden gap-[40px]"
       >
-        <span className="md:text-2xl text-neutral-50 pr-1">{price}</span>
+        <div className="md:text-2xl text-right text-neutral-50 pr-1">{price}</div>
         <div className="border border-white/50 rounded-full py-2 px-4 text-white">
           <TextReveal>Contact me</TextReveal>
         </div>

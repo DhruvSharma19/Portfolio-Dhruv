@@ -22,9 +22,9 @@ const Projects = ({ data }: ProjectProps) => {
     <ProjectsProvider data={data}>
       <section className="md:p-8 p-4 relative" id="projects">
         <SectionHeading className="md:pl-16">
-          <SlideIn className="text-white/40">Selected</SlideIn>
+          <SlideIn className="text-white/40">Projects</SlideIn>
           <br />
-          <SlideIn>works</SlideIn>
+          <SlideIn>Detail</SlideIn>
         </SectionHeading>
         <Filters />
         <ProjectContainer />

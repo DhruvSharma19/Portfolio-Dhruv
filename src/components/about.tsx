@@ -5,7 +5,8 @@ import Image from "next/image";
 import { Dispatch, SetStateAction, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { formatDate } from "@/utils";
-import { SlideIn, Transition } from "./ui";
+import { SectionHeading, PerspectiveText,SlideIn, Transition } from "./ui";
+
 
 interface AboutProps {
   about: AboutType;
