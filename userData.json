@@ -31,19 +31,21 @@
     "role": "admin",
     "timeline": [
       {
-        "company_name": "Ampersand Group",
-        "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
+        "company_name": "LeadSpire Consulting Pvt. Ltd. ,",
+        "summary": "Contributed to the development of a dashboard for Delhi government under Vidyasamikshakendra website.",
         "sequence": 6,
         "startDate": "2024-01-10T00:00:00.000Z",
         "endDate": "2024-05-10T00:00:00.000Z",
         "jobTitle": "Software Developer Intern",
         "jobLocation": " New Delhi, India",
         "bulletPoints": [
-          "Worked with a team to develop and maintain the VidyasamikshaKendra Website, contributing to a 15% increase in server response time and 20% decrease in loading time through optimization efforts",
-          "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-          "\nCollaborated effectively with the team to reduce website bugs by 25%, improving overall reliability.",
-          "\nSuccessfully integrated government APIs to enhance website functionality and user experience.",
-          "\nTeach Stack: ReactJS, NodeJS, Angular, Javascript, JWT"
+          "Developed and maintained the Vidyasamikshakendra website, incorporating government APIs to enhance functionality and user experience.",
+          "\n Implemented features for tracking total, regular, and guest teacher data, including detailed breakdowns by designation, shift, and school management, increasing teacher accountability and optimizing deployment, leading to a 15% reduction in administrative overhead.",
+          "\n Integrated real-time monitoring of student attendance and teacher performance with automated data updates, achieving a 40% increase in data accuracy and a 25% reduction in manual data processing time.",
+          "\n Developed systems for tracking student demographics, attendance, and academic performance, resulting in a 30% improvement in attendance tracking accuracy and a 25% enhancement in intervention strategies and academic support.",
+          "\n Created comprehensive dashboards providing insights into student-teacher ratios, student and teacher demographics, and school management types, improving data visualization and decision-making for educational authorities.",
+          "\n Enhanced resource allocation efficiency by 20% through better data visualization and analytics, aiding educational authorities in making informed decisions.",
+          "\n Tech Stack: ReactJS, NodeJS, Angular, Javascript, JWT, Redis, Docker"
         ],
         "forEducation": true,
         "enabled": true,
@@ -313,46 +315,6 @@
     "projects": [
       {
         "liveurl": "#",
-        "githuburl": "https://github.com/DhruvSharma19/Langster",
-        "title": "Langster",
-        "sequence": 14,
-        "image": {
-          "public_id": "1706285511679-xe7r9t1",
-          "url": "https://drive.google.com/uc?id=1f03fgtSJ__nHB7aqWGVsoIFrw4mZdPO2"
-        },
-        "description": "Langster is an interactive language learning platform with AI-generated voices, gamified elements such as points, a heart system, and leaderboards. It offers users a dynamic experience with premium subscription options and a responsive design for all devices.",
-        "techStack": [
-          "Reactjs",
-          "Nextjs",
-          "Stripe",
-          "Tailwind CSS",
-          "TypeScript"
-        ],
-        "_id": "65b3d9c8d017f6b49c778ca70",
-        "enabled": true
-      },
-      {
-        "liveurl": "#",
-        "githuburl": "https://github.com/DhruvSharma19/SasWorx",
-        "title": "SasWorx",
-        "sequence": 14,
-        "image": {
-          "public_id": "1706285511679-xe7r9t2",
-          "url": "https://drive.google.com/uc?id="
-        },
-        "description": "Developed SasWorx, a multi-tenant SaaS platform for agency owners with Stripe integration, a drag-and-drop website builder, and comprehensive agency management tools for managing clients, sub-accounts, and business operations.",
-        "techStack": [
-          "Reactjs",
-          "Nextjs",
-          "Tailwind CSS",
-          "Stripe",
-          "TypeScript"
-        ],
-        "_id": "65b3d9c8d017f6b49c778ca71",
-        "enabled": true
-      },
-      {
-        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/FlowLink",
         "title": "FlowLink",
         "sequence": 14,
@@ -370,6 +332,60 @@
           "TypeScript"
         ],
         "_id": "65b3d9c8d017f6b49c778ca72",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://discord-zeta-black.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/EchoVerse",
+        "title": "EchoVerse",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t5",
+          "url": "https://drive.google.com/uc?id=1zSKB9l3faHSL_sIe8KnlPwGwcDDam5Pg"
+        },
+        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+        "techStack": [
+          "Reactjs",
+          "Nextjs",
+          "TypeScript",
+          "Socket.io",
+          "Tailwind CSS"
+        ],
+        "_id": "65b3d9c8d017f6b49c778ca75",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/PitchEye",
+        "title": "PitchEye",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "PitchEye is a project designed to analyze football (soccer) matches by detecting and tracking players, referees, and footballs in video footage. It leverages state-of-the-art AI object detection models, segmentation techniques, and motion analysis to provide insights into team performance and player dynamics.",
+        "techStack": ["Python", "OpneCV", "Numpy", "Panda", "Jupyter NoteBook", "Deep Learning"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "#",
+        "githuburl": "https://github.com/DhruvSharma19/Langster",
+        "title": "Langster",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t1",
+          "url": "https://drive.google.com/uc?id=1f03fgtSJ__nHB7aqWGVsoIFrw4mZdPO2"
+        },
+        "description": "Langster is an interactive language learning platform with AI-generated voices, gamified elements such as points, a heart system, and leaderboards. It offers users a dynamic experience with premium subscription options and a responsive design for all devices.",
+        "techStack": [
+          "Reactjs",
+          "Nextjs",
+          "Stripe",
+          "Tailwind CSS",
+          "TypeScript"
+        ],
+        "_id": "65b3d9c8d017f6b49c778ca70",
         "enabled": true
       },
       {
@@ -401,40 +417,6 @@
         "enabled": true
       },
       {
-        "liveurl": "https://discord-zeta-black.vercel.app/",
-        "githuburl": "https://github.com/DhruvSharma19/EchoVerse",
-        "title": "EchoVerse",
-        "sequence": 14,
-        "image": {
-          "public_id": "1706285511679-xe7r9t5",
-          "url": "https://drive.google.com/uc?id=1zSKB9l3faHSL_sIe8KnlPwGwcDDam5Pg"
-        },
-        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
-        "techStack": [
-          "Reactjs",
-          "Nextjs",
-          "TypeScript",
-          "Socket.io",
-          "Tailwind CSS"
-        ],
-        "_id": "65b3d9c8d017f6b49c778ca75",
-        "enabled": true
-      },
-      {
-        "liveurl": "https://incredible-rugelach-dd78fb.netlify.app/",
-        "githuburl": "https://github.com/DhruvSharma19/crowdFunding",
-        "title": "FundHive",
-        "sequence": 14,
-        "image": {
-          "public_id": "1706285511679-xe7r9t6",
-          "url": "https://drive.google.com/uc?id=11zK000g3ZADLqMO0zVxdV1QmiyZsmj3f"
-        },
-        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
-        "techStack": ["Reactjs", "BlockChain", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca76",
-        "enabled": true
-      },
-      {
         "liveurl": "https://loquacious-pixie-1bfcbb.netlify.app/",
         "githuburl": "https://github.com/DhruvSharma19/youtube",
         "title": "VideoSphere",
@@ -449,31 +431,17 @@
         "enabled": true
       },
       {
-        "liveurl": "#",
-        "githuburl": "https://github.com/DhruvSharma19/ClimaZen",
-        "title": "ClimaZen",
+        "liveurl": "https://incredible-rugelach-dd78fb.netlify.app/",
+        "githuburl": "https://github.com/DhruvSharma19/crowdFunding",
+        "title": "FundHive",
         "sequence": 14,
         "image": {
-          "public_id": "1706285511679-xe7r9t7",
-          "url": "https://drive.google.com/uc?id="
+          "public_id": "1706285511679-xe7r9t6",
+          "url": "https://drive.google.com/uc?id=11zK000g3ZADLqMO0zVxdV1QmiyZsmj3f"
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
-        "techStack": ["React Native", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca78",
-        "enabled": true
-      },
-      {
-        "liveurl": "#",
-        "githuburl": "https://github.com/DhruvSharma19/BrewHub",
-        "title": "BrewHub",
-        "sequence": 14,
-        "image": {
-          "public_id": "1706285511679-xe7r9t8",
-          "url": "https://drive.google.com/uc?id="
-        },
-        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
-        "techStack": ["React Native", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca79",
+        "techStack": ["Reactjs", "BlockChain", "Tailwind CSS"],
+        "_id": "65b3d9c8d017f6b49c778ca76",
         "enabled": true
       },
       {
@@ -508,6 +476,152 @@
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
         "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "#",
+        "githuburl": "https://github.com/DhruvSharma19/ClimaZen",
+        "title": "ClimaZen",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t7",
+          "url": "https://drive.google.com/uc?id="
+        },
+        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+        "techStack": ["React Native", "Tailwind CSS"],
+        "_id": "65b3d9c8d017f6b49c778ca78",
+        "enabled": true
+      },
+      {
+        "liveurl": "#",
+        "githuburl": "https://github.com/DhruvSharma19/BrewHub",
+        "title": "BrewHub",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t8",
+          "url": "https://drive.google.com/uc?id="
+        },
+        "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
+        "techStack": ["React Native", "Tailwind CSS"],
+        "_id": "65b3d9c8d017f6b49c778ca79",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/InstaSphere",
+        "title": "Instasphere",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "Instaphere is a social media application built with React Native (Expo) for the frontend and Node.js with MongoDB for the backend. This app allows users to share photos, videos, stories, interact with each other's content through likes and comments, and communicate via real-time chat. It is designed to provide a seamless social media experience. Users can upload and share multimedia content, engage with posts through comments and likes, follow other users, and communicate via real-time messaging.",
+        "techStack": ["React Native", "MERN", "Tailwind CSS", "Javascript"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/Learnify---Mobile",
+        "title": "Learnify - Mobile",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "The LMS project aims to provide a seamless learning experience through a mobile application, managed and controlled via an admin dashboard. Users can sign up, enroll in courses, and engage with interactive lessons, quizzes, and assignments. The admin dashboard allows for efficient management of courses, users, and content, ensuring a smooth and organized learning journey.",
+        "techStack": ["React Native", "Stripe", "Tailwind CSS", "TypeScript", "Redux", "MERN" ],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/LipNet",
+        "title": "LipNet",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "LipNet, a full-stack application for lip reading, originally developed from the LipNet deep learning model. This project combines deep learning with web development to provide a functional lip-reading application that predicts spoken words from video inputs. LipNet utilizes a deep learning model trained to read lips from video sequences. The application processes video inputs, extracts relevant frames, and uses a pre-trained model to predict the spoken words. The web interface allows users to upload videos, view the processed frames, and see the model's predictions in real-time.",
+        "techStack": ["Python", "Deep Learning", "Jupyter NoteBook", "TensorFlow", "Numpy", "Panda", "OpneCV"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/PosePerfect",
+        "title": "PosePerfect",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "PosePerfect is a real-time posture detection and repetition counting application designed to assist with exercise form and tracking. Using computer vision and machine learning, the application can identify different stages of an exercise and count repetitions with high accuracy.",
+        "techStack": ["Python", "OpneCV", "Panda", "Numpy", "Deep Learning"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/HealthPlus",
+        "title": "HealthPlus",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "HealthPlus is a Django-based web application designed to manage user accounts, patient profiles, doctor profiles, and track disease symptoms. It also helps to predict patient's disease on the basis of the symptoms. It features a robust backend for handling user authentication, data serialization, and custom validations. The frontend is built with modern JavaScript frameworks and libraries to create a responsive and user-friendly interface.",
+        "techStack": ["Django", "Numpy", "Panda", "Javascript","Reactjs","Tailwind CSS"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/IrisInsight",
+        "title": "IrisInsight",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "IrisInsight is an eye-tracking system that uses a ResNet model for iris estimation. It involves collecting eye images, augmenting them, training a neural network to predict iris positions, and running a real-time eye tracker. The project is implemented in Python using TensorFlow, OpenCV, and Albumentations libraries.",
+        "techStack": ["Deep Learning", "Jupyter NoteBook", "OpneCV", "TensorFlow"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://talkbuddy.vercel.app/",
+        "githuburl": "https://github.com/DhruvSharma19/Learnify",
+        "title": "Learnify",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t0",
+          "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
+        },
+        "description": "",
+        "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
+        "_id": "65b3d9c8d017f6b49c778ca711",
+        "enabled": true
+      },
+      {
+        "liveurl": "#",
+        "githuburl": "https://github.com/DhruvSharma19/SasWorx",
+        "title": "SasWorx",
+        "sequence": 14,
+        "image": {
+          "public_id": "1706285511679-xe7r9t2",
+          "url": "https://drive.google.com/uc?id="
+        },
+        "description": "Developed SasWorx, a multi-tenant SaaS platform for agency owners with Stripe integration, a drag-and-drop website builder, and comprehensive agency management tools for managing clients, sub-accounts, and business operations.",
+        "techStack": [
+          "Reactjs",
+          "Nextjs",
+          "Tailwind CSS",
+          "Stripe",
+          "TypeScript"
+        ],
+        "_id": "65b3d9c8d017f6b49c778ca71",
         "enabled": true
       }
     ],
@@ -615,19 +729,8 @@
           "public_id": "portfolio3/1710357726628-c4dr18.png",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
         },
-        "name": "CodeChef Starter 86 Contest",
-        "review": "Global Rank – 93 in CodeChef Starter 86 Contest.",
-        "position": "Software Engineer",
-        "enabled": true,
-        "_id": "65f1fcdf0556c3f887e9d74c1"
-      },
-      {
-        "image": {
-          "public_id": "portfolio3/1710357726628-c4dr18.png",
-          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
-        },
         "name": "LeetCode and GeeksForGeeks",
-        "review": "Solved 700+ questions on Leetcode and 250+ questions on GeeksForGeeks",
+        "review": "Solved 900+ questions on Leetcode and 250+ questions on GeeksForGeeks",
         "position": "Software Engineer",
         "enabled": true,
         "_id": "65f1fcdf0556c3f887e9d74c2"

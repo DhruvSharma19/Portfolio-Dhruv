@@ -50,7 +50,7 @@ const Testimonials = ({
               <div>
                 <h4 className="md:font-semibold font-medium">{val.name}</h4>
                 <h5 className="md:text-sm text-xs opacity-60">
-                  {val.position}
+                  {/* {val.position} */}
                 </h5>
               </div>
             </div>

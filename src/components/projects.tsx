@@ -126,7 +126,7 @@ const Card = ({ title, image, description }: Project) => {
             animate={{ y: hover ? -10 : 0, opacity: hover ? 1 : 0 }}
             className="absolute text-white/50"
           >
-            {description.slice(0,55)}
+            {/* {description.slice(0,55)} */}
           </motion.p>
         </div>
       </div>
