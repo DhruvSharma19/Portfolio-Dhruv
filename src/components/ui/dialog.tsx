@@ -46,9 +46,11 @@ export const Dialog = ({ showDialog, setShowDialog }: DialogProps) => {
                       <Link href={singleProject.githuburl}>
                         <Github />
                       </Link>
+                      {singleProject.liveurl ==="#" ? <></>:
                       <Link href={singleProject.liveurl}>
                         <ExternalLink />
                       </Link>
+                      }
                     </div>
                   </div>
                   <div className="py-3 flex items-center gap-4">

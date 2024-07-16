@@ -63,7 +63,7 @@ const ProjectContainer = () => {
                   setSingleProject(project);
                 }}
               >
-                <Card {...project} />
+                <Card key={project._id} {...project} />
               </Transition>
             ) : null
           )}

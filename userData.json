@@ -314,7 +314,7 @@
     ],
     "projects": [
       {
-        "liveurl": "#",
+        "liveurl": "https://flow-link.vercel.app/",
         "githuburl": "https://github.com/DhruvSharma19/FlowLink",
         "title": "FlowLink",
         "sequence": 14,
@@ -331,7 +331,7 @@
           "Framer Motion",
           "TypeScript"
         ],
-        "_id": "65b3d9c8d017f6b49c778ca72",
+        "_id": "65b3d9c8d017f6b49c778ca721",
         "enabled": true
       },
       {
@@ -351,11 +351,11 @@
           "Socket.io",
           "Tailwind CSS"
         ],
-        "_id": "65b3d9c8d017f6b49c778ca75",
+        "_id": "65b3d9c8d017f6b49c778ca752",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/PitchEye",
         "title": "PitchEye",
         "sequence": 14,
@@ -365,11 +365,11 @@
         },
         "description": "PitchEye is a project designed to analyze football (soccer) matches by detecting and tracking players, referees, and footballs in video footage. It leverages state-of-the-art AI object detection models, segmentation techniques, and motion analysis to provide insights into team performance and player dynamics.",
         "techStack": ["Python", "OpneCV", "Numpy", "Panda", "Jupyter NoteBook", "Deep Learning"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca7114",
         "enabled": true
       },
       {
-        "liveurl": "#",
+        "liveurl": "https://langster.vercel.app/",
         "githuburl": "https://github.com/DhruvSharma19/Langster",
         "title": "Langster",
         "sequence": 14,
@@ -385,7 +385,7 @@
           "Tailwind CSS",
           "TypeScript"
         ],
-        "_id": "65b3d9c8d017f6b49c778ca70",
+        "_id": "65b3d9c8d017f6b49c778ca705",
         "enabled": true
       },
       {
@@ -399,7 +399,7 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with an intuitive UI and powerful backend integration.",
         "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
-        "_id": "65b3d9c8d017f6b49c778ca73",
+        "_id": "65b3d9c8d017f6b49c778ca736",
         "enabled": true
       },
       {
@@ -413,7 +413,7 @@
         },
         "description": "Developed an automation platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["Reactjs", "MERN"],
-        "_id": "65b3d9c8d017f6b49c778ca74",
+        "_id": "65b3d9c8d017f6b49c778ca747",
         "enabled": true
       },
       {
@@ -427,7 +427,7 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["Reactjs", "MERN"],
-        "_id": "65b3d9c8d017f6b49c778ca77",
+        "_id": "65b3d9c8d017f6b49c778ca778",
         "enabled": true
       },
       {
@@ -441,7 +441,7 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["Reactjs", "BlockChain", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca76",
+        "_id": "65b3d9c8d017f6b49c778ca769",
         "enabled": true
       },
       {
@@ -461,7 +461,7 @@
           "OpenAI",
           "Tailwind CSS"
         ],
-        "_id": "65b3d9c8d017f6b49c778ca710",
+        "_id": "65b3d9c8d017f6b49c778ca71000",
         "enabled": true
       },
       {
@@ -475,7 +475,7 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca711321",
         "enabled": true
       },
       {
@@ -489,7 +489,7 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["React Native", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca78",
+        "_id": "65b3d9c8d017f6b49c778ca7832",
         "enabled": true
       },
       {
@@ -503,11 +503,11 @@
         },
         "description": "Developed a platform that integrates popular services like Google Drive, Slack, Discord, and Notion, allowing users to create custom workflows with intuitive UI components and powerful backend integration.",
         "techStack": ["React Native", "Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca79",
+        "_id": "65b3d9c8d017f6b49c778ca7943",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/InstaSphere",
         "title": "Instasphere",
         "sequence": 14,
@@ -517,11 +517,11 @@
         },
         "description": "Instaphere is a social media application built with React Native (Expo) for the frontend and Node.js with MongoDB for the backend. This app allows users to share photos, videos, stories, interact with each other's content through likes and comments, and communicate via real-time chat. It is designed to provide a seamless social media experience. Users can upload and share multimedia content, engage with posts through comments and likes, follow other users, and communicate via real-time messaging.",
         "techStack": ["React Native", "MERN", "Tailwind CSS", "Javascript"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca714154",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/Learnify---Mobile",
         "title": "Learnify - Mobile",
         "sequence": 14,
@@ -531,11 +531,11 @@
         },
         "description": "The LMS project aims to provide a seamless learning experience through a mobile application, managed and controlled via an admin dashboard. Users can sign up, enroll in courses, and engage with interactive lessons, quizzes, and assignments. The admin dashboard allows for efficient management of courses, users, and content, ensuring a smooth and organized learning journey.",
         "techStack": ["React Native", "Stripe", "Tailwind CSS", "TypeScript", "Redux", "MERN" ],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca711556",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/LipNet",
         "title": "LipNet",
         "sequence": 14,
@@ -545,11 +545,11 @@
         },
         "description": "LipNet, a full-stack application for lip reading, originally developed from the LipNet deep learning model. This project combines deep learning with web development to provide a functional lip-reading application that predicts spoken words from video inputs. LipNet utilizes a deep learning model trained to read lips from video sequences. The application processes video inputs, extracts relevant frames, and uses a pre-trained model to predict the spoken words. The web interface allows users to upload videos, view the processed frames, and see the model's predictions in real-time.",
         "techStack": ["Python", "Deep Learning", "Jupyter NoteBook", "TensorFlow", "Numpy", "Panda", "OpneCV"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca711667",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/PosePerfect",
         "title": "PosePerfect",
         "sequence": 14,
@@ -559,11 +559,11 @@
         },
         "description": "PosePerfect is a real-time posture detection and repetition counting application designed to assist with exercise form and tracking. Using computer vision and machine learning, the application can identify different stages of an exercise and count repetitions with high accuracy.",
         "techStack": ["Python", "OpneCV", "Panda", "Numpy", "Deep Learning"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca71178",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/HealthPlus",
         "title": "HealthPlus",
         "sequence": 14,
@@ -573,11 +573,11 @@
         },
         "description": "HealthPlus is a Django-based web application designed to manage user accounts, patient profiles, doctor profiles, and track disease symptoms. It also helps to predict patient's disease on the basis of the symptoms. It features a robust backend for handling user authentication, data serialization, and custom validations. The frontend is built with modern JavaScript frameworks and libraries to create a responsive and user-friendly interface.",
         "techStack": ["Django", "Numpy", "Panda", "Javascript","Reactjs","Tailwind CSS"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca71189",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/IrisInsight",
         "title": "IrisInsight",
         "sequence": 14,
@@ -587,11 +587,11 @@
         },
         "description": "IrisInsight is an eye-tracking system that uses a ResNet model for iris estimation. It involves collecting eye images, augmenting them, training a neural network to predict iris positions, and running a real-time eye tracker. The project is implemented in Python using TensorFlow, OpenCV, and Albumentations libraries.",
         "techStack": ["Deep Learning", "Jupyter NoteBook", "OpneCV", "TensorFlow"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca71190",
         "enabled": true
       },
       {
-        "liveurl": "https://talkbuddy.vercel.app/",
+        "liveurl": "#",
         "githuburl": "https://github.com/DhruvSharma19/Learnify",
         "title": "Learnify",
         "sequence": 14,
@@ -601,7 +601,7 @@
         },
         "description": "",
         "techStack": ["Reactjs", "Nextjs", "Tailwind CSS", "TypeScript"],
-        "_id": "65b3d9c8d017f6b49c778ca711",
+        "_id": "65b3d9c8d017f6b49c778ca711231",
         "enabled": true
       },
       {
@@ -621,7 +621,7 @@
           "Stripe",
           "TypeScript"
         ],
-        "_id": "65b3d9c8d017f6b49c778ca71",
+        "_id": "65b3d9c8d017f6b49c778ca71567",
         "enabled": true
       }
     ],
