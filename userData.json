@@ -187,18 +187,6 @@
       },
       {
         "enabled": true,
-        "name": "Vercel",
-        "sequence": 7,
-        "percentage": 100,
-        "image": {
-          "public_id": "1706286729467-rbblgb",
-          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
-          "_id": "65b3de89b48589dfcae18016"
-        },
-        "_id": "65b3de89b48589dfcae18015"
-      },
-      {
-        "enabled": true,
         "name": "Next.js",
         "sequence": 6,
         "percentage": 100,
@@ -299,6 +287,17 @@
         },
         "_id": "65b3dbeba5c8d2db7b6164bc4",
         "enabled": true
+      },
+      {
+        "name": "PostgreSQL",
+        "sequence": 1,
+        "percentage": 100,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc874",
+        "enabled": true
       }
     ],
     "youtube": [
@@ -364,7 +363,14 @@
           "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
         },
         "description": "PitchEye is a project designed to analyze football (soccer) matches by detecting and tracking players, referees, and footballs in video footage. It leverages state-of-the-art AI object detection models, segmentation techniques, and motion analysis to provide insights into team performance and player dynamics.",
-        "techStack": ["Python", "OpneCV", "Numpy", "Panda", "Jupyter NoteBook", "Deep Learning"],
+        "techStack": [
+          "Python",
+          "OpneCV",
+          "Numpy",
+          "Panda",
+          "Jupyter NoteBook",
+          "Deep Learning"
+        ],
         "_id": "65b3d9c8d017f6b49c778ca7114",
         "enabled": true
       },
@@ -530,7 +536,14 @@
           "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
         },
         "description": "The LMS project aims to provide a seamless learning experience through a mobile application, managed and controlled via an admin dashboard. Users can sign up, enroll in courses, and engage with interactive lessons, quizzes, and assignments. The admin dashboard allows for efficient management of courses, users, and content, ensuring a smooth and organized learning journey.",
-        "techStack": ["React Native", "Stripe", "Tailwind CSS", "TypeScript", "Redux", "MERN" ],
+        "techStack": [
+          "React Native",
+          "Stripe",
+          "Tailwind CSS",
+          "TypeScript",
+          "Redux",
+          "MERN"
+        ],
         "_id": "65b3d9c8d017f6b49c778ca711556",
         "enabled": true
       },
@@ -544,7 +557,15 @@
           "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
         },
         "description": "LipNet, a full-stack application for lip reading, originally developed from the LipNet deep learning model. This project combines deep learning with web development to provide a functional lip-reading application that predicts spoken words from video inputs. LipNet utilizes a deep learning model trained to read lips from video sequences. The application processes video inputs, extracts relevant frames, and uses a pre-trained model to predict the spoken words. The web interface allows users to upload videos, view the processed frames, and see the model's predictions in real-time.",
-        "techStack": ["Python", "Deep Learning", "Jupyter NoteBook", "TensorFlow", "Numpy", "Panda", "OpneCV"],
+        "techStack": [
+          "Python",
+          "Deep Learning",
+          "Jupyter NoteBook",
+          "TensorFlow",
+          "Numpy",
+          "Panda",
+          "OpneCV"
+        ],
         "_id": "65b3d9c8d017f6b49c778ca711667",
         "enabled": true
       },
@@ -572,7 +593,14 @@
           "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
         },
         "description": "HealthPlus is a Django-based web application designed to manage user accounts, patient profiles, doctor profiles, and track disease symptoms. It also helps to predict patient's disease on the basis of the symptoms. It features a robust backend for handling user authentication, data serialization, and custom validations. The frontend is built with modern JavaScript frameworks and libraries to create a responsive and user-friendly interface.",
-        "techStack": ["Django", "Numpy", "Panda", "Javascript","Reactjs","Tailwind CSS"],
+        "techStack": [
+          "Django",
+          "Numpy",
+          "Panda",
+          "Javascript",
+          "Reactjs",
+          "Tailwind CSS"
+        ],
         "_id": "65b3d9c8d017f6b49c778ca71189",
         "enabled": true
       },
@@ -586,7 +614,12 @@
           "url": "https://drive.google.com/uc?id=1QuwItwDFEdSJ-PZv9_1YQSqL465Zu3Ug"
         },
         "description": "IrisInsight is an eye-tracking system that uses a ResNet model for iris estimation. It involves collecting eye images, augmenting them, training a neural network to predict iris positions, and running a real-time eye tracker. The project is implemented in Python using TensorFlow, OpenCV, and Albumentations libraries.",
-        "techStack": ["Deep Learning", "Jupyter NoteBook", "OpneCV", "TensorFlow"],
+        "techStack": [
+          "Deep Learning",
+          "Jupyter NoteBook",
+          "OpneCV",
+          "TensorFlow"
+        ],
         "_id": "65b3d9c8d017f6b49c778ca71190",
         "enabled": true
       },
@@ -681,7 +714,7 @@
       {
         "name": "NIT Kurukshetra",
         "charge": "2021 - 2025",
-        "desc": "Bachelor of Technology, Computer Engineering | CGPA: 8.4951",
+        "desc": "Bachelor of Technology, Computer Engineering | CGPA: 8.3810",
         "enabled": true,
         "_id": "65f1fd690556c3f887e9d94a0",
         "image": {
@@ -719,7 +752,7 @@
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
         },
         "name": "Smart India Hackathon 2023",
-        "review": "Winner of internal phase of Smart India Hackathon 2023, NIT Kurukshetra",
+        "review": "Winner of the internal phase of Smart India Hackathon 2023 at NIT Kurukshetra as Team Leader, for developing a Blockchain-based online meeting system for AICTE",
         "position": "Software Engineer",
         "enabled": true,
         "_id": "65f1fcdf0556c3f887e9d74c0"
@@ -730,10 +763,21 @@
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
         },
         "name": "LeetCode and GeeksForGeeks",
-        "review": "Solved 900+ questions on Leetcode and 250+ questions on GeeksForGeeks",
+        "review": "Solved 1000+ questions on Leetcode and 250+ questions on GeeksForGeeks, showcasing strong algorithmic and data structures knowledge",
         "position": "Software Engineer",
         "enabled": true,
         "_id": "65f1fcdf0556c3f887e9d74c2"
+      },
+      {
+        "image": {
+          "public_id": "portfolio3/1710357726628-c4dr18.png",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+        },
+        "name": "Achievements in Competitive Programming",
+        "review": " Achieved a AIR – 48 and AIR - 37 in the CodeChef Starter 144 and Starter 145 Contest respectively and AIR - 155 in LeetCode Weekly 406, demonstrating proficiency in competitive programming.",
+        "position": "Software Engineer",
+        "enabled": true,
+        "_id": "65f1fcdf0556c3f887e9dedd74c2"
       },
       {
         "image": {
