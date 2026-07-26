@@ -4,12 +4,12 @@
     "about": {
       "name": "Dhruv Sharma",
       "title": "Software Engineer",
-      "subTitle": "I develop web applications and solve real world problems",
-      "description": "As a software developer with a solid background in React and a diverse skill set in C/C++, Java, and Python, I bring a unique combination of frontend and backend expertise. I have experience with various technologies including TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, and NextJS. I value continuous learning, which is reflected in my ongoing work with blockchain and machine learning. My approach focuses on building robust, scalable solutions, while collaborating with teams and clients to address real-world challenges. My aim is to create user-friendly applications that deliver impactful results.",
-      "quote": "Live the Life as you want",
-      "exp_year": "1",
-      "address": "Haryana , India",
-      "some_total": "90",
+      "subTitle": "Building AI-powered applications, automation platforms, and scalable web solutions",
+      "description": "Software Engineer with experience building AI-powered products, full-stack web applications, and workflow automation platforms. Currently developing agentic AI systems, self-healing test automation, and multi-agent execution engines using LangChain, LangGraph, MCP, RAG, and modern JavaScript frameworks. Skilled in React, Next.js, Node.js, FastAPI, TypeScript, Python, and C++, with a strong foundation in data structures and algorithms. Passionate about designing scalable, high-performance systems that solve real-world problems through AI and modern software engineering.",
+      "quote": "Code. Learn. Build. Repeat.",
+      "exp_year": "2+",
+      "address": "Haryana, India",
+      "some_total": "1000+",
       "phoneNumber": "+91-8377830677",
       "contactEmail": "dhruvamsh@gmail.com",
       "avatar": {
@@ -31,33 +31,66 @@
     "role": "admin",
     "timeline": [
       {
-        "company_name": "LeadSpire Consulting Pvt. Ltd. ,",
-        "summary": "Contributed to the development of a dashboard for Delhi government under Vidyasamikshakendra website.",
-        "sequence": 6,
+        "company_name": "Unthinkable Solutions",
+        "summary": "Building Smart QA, an AI-powered self-healing test automation platform using multi-agent AI systems and modern web technologies.",
+        "sequence": 1,
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "endDate": null,
+        "jobTitle": "Software Engineer",
+        "jobLocation": "Gurugram, India",
+        "bulletPoints": [
+          "Led the architecture and development of Smart QA, an agentic AI-powered self-healing test automation platform using MCP, generating Playwright and Appium automation scripts from natural language.",
+          "Built a multi-agent execution engine capable of planning, execution, re-planning, and self-healing, reducing flaky tests by over 50% and maintenance effort by over 40%.",
+          "Developed a unified AI observability platform with execution traces, real-time streaming, screenshots, videos, audit logs, and AI-powered failure analysis.",
+          "Implemented enterprise capabilities including human-in-the-loop review workflows, bulk ingestion (10,000+ test cases), multi-tenant support, and reusable automation pipelines.",
+          "Tech Stack: TypeScript, React, Next.js, Node.js, Playwright, Appium, LangChain, LangGraph, MCP, AI Agents"
+        ],
+        "forEducation": false,
+        "enabled": true
+      },
+      {
+        "company_name": "Unthinkable Solutions",
+        "summary": "Developed high-performance e-commerce experiences and AI-powered product onboarding workflows for Townkart.",
+        "sequence": 2,
+        "startDate": "2025-01-01T00:00:00.000Z",
+        "endDate": "2025-06-30T00:00:00.000Z",
+        "jobTitle": "Software Engineer Intern",
+        "jobLocation": "Gurugram, India",
+        "bulletPoints": [
+          "Built SEO-optimized Product Listing and Product Detail pages with virtualized rendering and dynamic filtering.",
+          "Developed an AI-powered product onboarding pipeline to generate titles, descriptions, categories, SKUs, and SEO metadata automatically.",
+          "Optimized frontend performance using virtualization, lazy loading, debounced queries, and intelligent caching, improving performance by up to 70%.",
+          "Implemented dynamic theming, inventory-aware UI updates, and product variant selection.",
+          "Tech Stack: React, Next.js, TypeScript, Node.js, AI Workflows"
+        ],
+        "forEducation": false,
+        "enabled": true
+      },
+      {
+        "company_name": "LeadSpire Consulting Pvt. Ltd.",
+        "summary": "Developed analytics dashboards for the Delhi Government's Vidya Samiksha Kendra project.",
+        "sequence": 3,
         "startDate": "2024-01-10T00:00:00.000Z",
         "endDate": "2024-05-10T00:00:00.000Z",
         "jobTitle": "Software Developer Intern",
-        "jobLocation": " New Delhi, India",
+        "jobLocation": "New Delhi, India",
         "bulletPoints": [
-          "Developed and maintained the Vidyasamikshakendra website, incorporating government APIs to enhance functionality and user experience.",
-          "\n Implemented features for tracking total, regular, and guest teacher data, including detailed breakdowns by designation, shift, and school management, increasing teacher accountability and optimizing deployment, leading to a 15% reduction in administrative overhead.",
-          "\n Integrated real-time monitoring of student attendance and teacher performance with automated data updates, achieving a 40% increase in data accuracy and a 25% reduction in manual data processing time.",
-          "\n Developed systems for tracking student demographics, attendance, and academic performance, resulting in a 30% improvement in attendance tracking accuracy and a 25% enhancement in intervention strategies and academic support.",
-          "\n Created comprehensive dashboards providing insights into student-teacher ratios, student and teacher demographics, and school management types, improving data visualization and decision-making for educational authorities.",
-          "\n Enhanced resource allocation efficiency by 20% through better data visualization and analytics, aiding educational authorities in making informed decisions.",
-          "\n Tech Stack: ReactJS, NodeJS, Angular, Javascript, JWT, Redis, Docker"
+          "Built the Vidya Samiksha Kendra dashboard integrating Department of Education APIs.",
+          "Implemented real-time attendance and teacher performance tracking through REST APIs, improving data accuracy by 40%.",
+          "Developed dashboards for student-teacher ratios, demographics, and school management analytics, improving resource allocation efficiency by 20%.",
+          "Created interactive visualizations for educational monitoring and reporting.",
+          "Tech Stack: React.js, Node.js, JavaScript, REST APIs"
         ],
-        "forEducation": true,
-        "enabled": true,
-        "_id": "65f1fe900556c3f887e9db94"
+        "forEducation": false,
+        "enabled": true
       }
     ],
     "skills": [
       {
-        "enabled": true,
-        "name": "C++/C",
-        "sequence": 17,
+        "name": "Python",
+        "sequence": 20,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706288734207-4rlz3m",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
@@ -66,10 +99,10 @@
         "_id": "65b3e661b48589dfcae187f7"
       },
       {
-        "enabled": true,
-        "name": "Python",
-        "sequence": 16,
+        "name": "C++/C",
+        "sequence": 19,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706288708710-nrq74s",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
@@ -78,10 +111,10 @@
         "_id": "65b3e645b48589dfcae187a20"
       },
       {
-        "enabled": true,
-        "name": "Java",
-        "sequence": 16,
+        "name": "TypeScript",
+        "sequence": 18,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706288708710-nrq74s",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
@@ -90,10 +123,10 @@
         "_id": "65b3e645b48589dfcae187a2"
       },
       {
-        "enabled": true,
-        "name": "TypeScript",
-        "sequence": 6,
+        "name": "JavaScript",
+        "sequence": 17,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706287104739-pm8en",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
@@ -102,10 +135,10 @@
         "_id": "65b3e001b48589dfcae18245"
       },
       {
-        "enabled": true,
-        "name": "Node.js",
-        "sequence": 7,
+        "name": "Java",
+        "sequence": 16,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286990341-tznh4",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
@@ -114,10 +147,10 @@
         "_id": "65b3df8fb48589dfcae18204"
       },
       {
-        "enabled": true,
-        "name": "MongoDB",
-        "sequence": 13,
+        "name": "React.js",
+        "sequence": 15,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286966065-p2yrx9",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
@@ -126,10 +159,10 @@
         "_id": "65b3df76b48589dfcae181c5"
       },
       {
-        "enabled": true,
-        "name": "Redux",
-        "sequence": 7,
+        "name": "Next.js",
+        "sequence": 14,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286913147-nwiky8",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
@@ -138,10 +171,10 @@
         "_id": "65b3df41b48589dfcae1814d"
       },
       {
-        "enabled": true,
-        "name": "Javascript",
-        "sequence": 3,
+        "name": "Tailwind CSS",
+        "sequence": 13,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706288679775-y4qwn3",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
@@ -150,10 +183,10 @@
         "_id": "65b3df24b48589dfcae18114"
       },
       {
-        "enabled": true,
-        "name": "Git",
+        "name": "Node.js",
         "sequence": 12,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286842731-r0eyn",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
@@ -162,10 +195,10 @@
         "_id": "65b3defbb48589dfcae180dd"
       },
       {
-        "enabled": true,
-        "name": "Github",
+        "name": "Express.js",
         "sequence": 11,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286821409-21cuqs",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
@@ -174,10 +207,10 @@
         "_id": "65b3dee5b48589dfcae180a8"
       },
       {
-        "enabled": true,
-        "name": "Sass",
+        "name": "FastAPI",
         "sequence": 10,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286780392-39i48h",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
@@ -186,10 +219,10 @@
         "_id": "65b3debcb48589dfcae18075"
       },
       {
-        "enabled": true,
-        "name": "Next.js",
-        "sequence": 6,
+        "name": "PostgreSQL",
+        "sequence": 9,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286682511-rgp96r",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
@@ -198,10 +231,10 @@
         "_id": "65b3de5bb48589dfcae17fe8"
       },
       {
-        "enabled": true,
-        "name": "React",
-        "sequence": 5,
+        "name": "MySQL",
+        "sequence": 8,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706291833080-0loo09",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
@@ -210,10 +243,10 @@
         "_id": "65b3de41b48589dfcae17fbd"
       },
       {
-        "enabled": true,
-        "name": "Tailwind CSS",
-        "sequence": 4,
+        "name": "MongoDB",
+        "sequence": 7,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286616701-2jka3q",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
@@ -222,10 +255,10 @@
         "_id": "65b3de19b48589dfcae17f904"
       },
       {
-        "enabled": true,
-        "name": "Express.js",
-        "sequence": 4,
+        "name": "LangChain",
+        "sequence": 6,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286616701-2jka3q",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
@@ -234,10 +267,10 @@
         "_id": "65b3de19b48589dfcae17f941"
       },
       {
-        "enabled": true,
-        "name": "CSS",
-        "sequence": 2,
+        "name": "LangGraph",
+        "sequence": 5,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286273084-romle",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
@@ -245,59 +278,114 @@
         "_id": "65b3dcc1b48589dfcae17e4d"
       },
       {
-        "name": "HTML",
-        "sequence": 1,
+        "name": "MCP",
+        "sequence": 4,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286058630-v3ax0a",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
         },
-        "_id": "65b3dbeba5c8d2db7b6164bc1",
-        "enabled": true
+        "_id": "65b3dbeba5c8d2db7b6164bc1"
+      },
+      {
+        "name": "RAG",
+        "sequence": 3,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc2"
+      },
+      {
+        "name": "Prompt Engineering",
+        "sequence": 2,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc3"
+      },
+      {
+        "name": "Vector Databases",
+        "sequence": 1,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc4"
+      },
+      {
+        "name": "Git",
+        "sequence": 1,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc874"
+      },
+      {
+        "name": "GitHub",
+        "sequence": 1,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc323"
+      },
+      {
+        "name": "HTML",
+        "sequence": 1,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164b34567"
+      },
+      {
+        "name": "CSS",
+        "sequence": 1,
+        "percentage": 100,
+        "enabled": true,
+        "image": {
+          "public_id": "1706286058630-v3ax0a",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+        },
+        "_id": "65b3dbeba5c8d2db7b6164bc4rfeegtr"
       },
       {
         "name": "Machine Learning",
         "sequence": 1,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286058630-v3ax0a",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
         },
-        "_id": "65b3dbeba5c8d2db7b6164bc2",
-        "enabled": true
+        "_id": "65b3dbeba5c8d2db7b6164bc5tet"
       },
       {
         "name": "Deep Learning",
         "sequence": 1,
         "percentage": 100,
+        "enabled": true,
         "image": {
           "public_id": "1706286058630-v3ax0a",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
         },
-        "_id": "65b3dbeba5c8d2db7b6164bc3",
-        "enabled": true
-      },
-      {
-        "name": "BlockChain",
-        "sequence": 1,
-        "percentage": 100,
-        "image": {
-          "public_id": "1706286058630-v3ax0a",
-          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
-        },
-        "_id": "65b3dbeba5c8d2db7b6164bc4",
-        "enabled": true
-      },
-      {
-        "name": "PostgreSQL",
-        "sequence": 1,
-        "percentage": 100,
-        "image": {
-          "public_id": "1706286058630-v3ax0a",
-          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
-        },
-        "_id": "65b3dbeba5c8d2db7b6164bc874",
-        "enabled": true
+        "_id": "65b3dbeba5c8d2db7b6164bc34drt"
       }
     ],
     "youtube": [
@@ -671,7 +759,7 @@
       },
       {
         "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/dhruv-sharma-042198233",
+        "url": "https://www.linkedin.com/in/dhruv-sh",
         "image": {
           "public_id": "1708718263294-2lfj67.webp",
           "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
@@ -714,7 +802,7 @@
       {
         "name": "NIT Kurukshetra",
         "charge": "2021 - 2025",
-        "desc": "Bachelor of Technology, Computer Engineering | CGPA: 8.3810",
+        "desc": "Bachelor of Technology, Computer Engineering | CGPA: 8.4",
         "enabled": true,
         "_id": "65f1fd690556c3f887e9d94a0",
         "image": {
