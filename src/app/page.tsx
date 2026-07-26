@@ -53,6 +53,9 @@ export default async function Home() {
       <Hero about={about} />
       <About about={about} timeline={timeline} />
       <Experience timeline={timeline} />
+      <SectionHeading className="pl-4 md:px-12 py-20">
+        <SlideIn>Experience</SlideIn>
+      </SectionHeading>
       {/* ===SKILLS SECTION=== */}
       <section id="skills">
         <ParallaxText baseVelocity={-5}>
