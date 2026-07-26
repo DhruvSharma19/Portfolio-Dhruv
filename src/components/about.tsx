@@ -26,6 +26,10 @@ const About = ({ about, timeline }: AboutProps) => {
       id="about"
     >
       <div>
+        <SectionHeading className="pl-4 md:px-12 py-20">
+          <SlideIn>About Me</SlideIn>
+        </SectionHeading>
+
         <h3 className="md:text-5xl text-2xl font-bold overflow-hidden uppercase pb-8">
           <SlideIn>{about.quote}</SlideIn>
         </h3>
