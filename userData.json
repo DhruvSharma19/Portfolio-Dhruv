@@ -46,7 +46,8 @@
           "Tech Stack: TypeScript, React, Next.js, Node.js, Playwright, Appium, LangChain, LangGraph, MCP, AI Agents"
         ],
         "forEducation": false,
-        "enabled": true
+        "enabled": true,
+        "_id": "65f1fe900556c3f887e9db94"
       },
       {
         "company_name": "Unthinkable Solutions",
@@ -64,7 +65,8 @@
           "Tech Stack: React, Next.js, TypeScript, Node.js, AI Workflows"
         ],
         "forEducation": false,
-        "enabled": true
+        "enabled": true,
+        "_id": "65f1fe900556c3f887e9db3eder"
       },
       {
         "company_name": "LeadSpire Consulting Pvt. Ltd.",
@@ -82,7 +84,8 @@
           "Tech Stack: React.js, Node.js, JavaScript, REST APIs"
         ],
         "forEducation": false,
-        "enabled": true
+        "enabled": true,
+        "_id": "65f1fe900556c3f887e9db64gfb"
       }
     ],
     "skills": [
