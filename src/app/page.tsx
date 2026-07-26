@@ -54,7 +54,7 @@ export default async function Home() {
       <About about={about} timeline={timeline} />
       <Experience timeline={timeline} />
       <SectionHeading className="pl-4 md:px-12 py-20">
-        <SlideIn>Experience</SlideIn>
+        <SlideIn>Skills</SlideIn>
       </SectionHeading>
       {/* ===SKILLS SECTION=== */}
       <section id="skills">
