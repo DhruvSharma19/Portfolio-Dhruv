@@ -108,7 +108,7 @@ export const HoverImageLink = ({
       >
         <div className="md:text-2xl text-right text-neutral-50 pr-1">{price}</div>
         <div className="border border-white/50 rounded-full py-2 px-4 text-white">
-          <TextReveal>Contact me</TextReveal>
+          <TextReveal>View</TextReveal>
         </div>
       </motion.div>
     </MotionLink>
